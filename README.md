@@ -44,11 +44,11 @@ i) Once, the teacher logins, There should be a dashboard menu,
        quiz.
 
 # UI :
+![screencapture-localhost-3000-2022-08-24-16_45_02](https://user-images.githubusercontent.com/107143531/186410537-ad37c06b-0a9b-4a3b-b9fc-54ab626ba559.png)
 ![screencapture-localhost-3000-2022-08-17-12_06_27](https://user-images.githubusercontent.com/107143531/185057380-eb0d4ef9-4f34-41b1-9668-3a29c2194005.png)
 ![screencapture-localhost-3000-2022-08-17-12_06_44](https://user-images.githubusercontent.com/107143531/185057398-d6d596d0-cdca-4776-b6b8-1e784e7b44a4.png)
 ![screencapture-localhost-3000-2022-08-17-12_06_57](https://user-images.githubusercontent.com/107143531/185057405-1472d6cd-b277-44c9-8bd9-2f4f92e3c124.png)
 ![screencapture-localhost-3000-2022-08-17-12_07_19](https://user-images.githubusercontent.com/107143531/185057416-6fac0aff-daa6-4184-9ba0-d336172d9c78.png)
-![screencapture-localhost-3000-2022-08-24-16_45_02](https://user-images.githubusercontent.com/107143531/186410537-ad37c06b-0a9b-4a3b-b9fc-54ab626ba559.png)
 ![screencapture-localhost-3000-teacher-2022-08-24-16_44_49](https://user-images.githubusercontent.com/107143531/186410573-6e2879d3-8dcb-44e0-a078-1c4d74c960eb.png)
 ![screencapture-localhost-3000-dashboard-2022-08-24-16_44_21](https://user-images.githubusercontent.com/107143531/186410598-4388eae4-af47-4d05-a726-f07d960db90a.png)
 ![screencapture-localhost-3000-dashboard-2022-08-24-16_44_07](https://user-images.githubusercontent.com/107143531/186410625-58378f89-70ef-48f3-b5b1-9cdbd2e2be75.png)
