@@ -1,0 +1,151 @@
+.container {
+  background-color: rgb(184, 136, 83);
+  border: 2px solid green;
+  width: 450px;
+  height: 200px;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 220px;
+}
+
+.container2 {
+  
+  border: 2px solid green;
+  width: 480px;
+  height: 1100px;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 220px;
+  margin-left: 400px;
+}
+
+.container3 {
+  background-color: rgb(184, 136, 83);
+  border: 2px solid green;
+  width: 450px;
+  height: 400px;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 400px;
+}
+
+
+.hello{
+  margin-left: 170px;
+  margin-top: 40px;
+}
+
+.questionHeading{
+  margin-top: 150px;
+  margin-left: 30px;
+  color: black;
+  font-family: serif;
+}
+
+.radio{
+  margin-left: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+.error{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+
+.control{
+  margin-left: 10px;
+  margin-top: 30px;
+  width: 130px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.questionButton1{
+  margin-top: 30px;
+  margin-left: 40px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+
+
+.questionButton2{
+  margin-left: 100px;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+
+.container1{
+  align-self: center;
+  width: 900px;
+  margin-left: 250px;
+  height: 500px;
+  flex-direction: column;
+  align-items: center;
+  background-color: #555;
+  color: #ddd;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  max-width: 700px;
+}
+
+.quesList{
+  font-family:serif;
+}
+
+.pp1 {
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
+
+.form-group1{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 15%;
+  margin-left: 25%;
+}
+
+.form-group2{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 25.5%;
+}
+
+.form-group3{
+  color:black;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2%;
+  margin-left: 20%;
+  border-radius: 2%;
+  border-color: blue;
+}
+
+.FormColor{
+  background-color: #42cf42;
+  width: 500px;
+  height: 400px;
+  margin: auto;
+  margin-top: 70px;
+  border: 3px solid #73AD21;
+}
+
+.buttonLogin
+{
+  margin-left: 210px;
+}
+
+.LoginForm{
+  color: black;
+  margin-left: 140px;
+  }
